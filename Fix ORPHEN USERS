@@ -78,3 +78,10 @@ FETCH NEXT FROM Orphans INTO @db, @user
 END
 CLOSE Orphans
 DEALLOCATE Orphans
+
+
+
+
+
+
+-----https://www.sqlservercentral.com/blogs/availability-group-issues-fixed-with-alerts-2#:~:text=Availability%20Group%20issues%20fixed%20with%20Alerts%201%20Availability,...%205%20Availability%20Group%20issues%20%E2%80%93%20Failover%20
